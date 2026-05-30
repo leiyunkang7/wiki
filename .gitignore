@@ -1,5 +1,12 @@
-# Qdrant 向量数据库（不要版本控制）
+# Qdrant 向量数据库
 qdrant_storage/
+
+# Wiki 配置（包含 API Key）
+.llmwiki/
+.llmwiki/config.toml
+
+# 日志
+logs/
 
 # 临时文件
 *.tmp
@@ -10,4 +17,3 @@ Thumbs.db
 
 # Lock 文件
 *.lock
-.llmwiki/config.toml
