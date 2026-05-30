@@ -1,0 +1,13 @@
+# Qdrant 向量数据库（不要版本控制）
+qdrant_storage/
+
+# 临时文件
+*.tmp
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Lock 文件
+*.lock
+.llmwiki/config.toml
